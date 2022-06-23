@@ -8,3 +8,4 @@
 ! issues: https://github.com/WRM-42/goggles/issues
 
 $discard,site=linkedin.com
+$discard,site=linkedin.cn
