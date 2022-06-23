@@ -1,0 +1,10 @@
+! name: No Quora
+! description: Remove Quora from the search results
+! public: true
+! author: WRM-42
+! avatar: #fe1821
+! homepage: https://github.com/WRM-42
+! license: GNU General Public License v2.0
+! issues: https://github.com/WRM-42/goggles/issues
+
+$discard,site=quora.com
