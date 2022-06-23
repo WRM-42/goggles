@@ -18,3 +18,5 @@ $discard,site=4chansearch.com
 $discard,site=desuarchive.org
 $discard,site=archive.wakarimasen.moe
 $discard,site=warosu.org
+$discard,site=desu.si
+$discard,site=mitsuba.world
