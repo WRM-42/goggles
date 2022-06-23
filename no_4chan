@@ -1,0 +1,20 @@
+! name: No 4chan
+! description: Remove 4chan from the search results
+! public: true
+! author: WRM-42
+! avatar: #00ff00
+! homepage: https://github.com/WRM-42
+! license: GNU General Public License v2.0
+! issues: https://github.com/WRM-42/goggles/issues
+
+! Official domains
+$discard,site=4chan.org
+$discard,site=4channel.org
+! Archives
+$discard,site=4chanarchives.com
+$discard,site=4plebs.org
+$discard,site=archived.moe
+$discard,site=4chansearch.com
+$discard,site=desuarchive.org
+$discard,site=archive.wakarimasen.moe
+$discard,site=warosu.org
