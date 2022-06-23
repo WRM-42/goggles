@@ -1,0 +1,10 @@
+! name: No Linkedin
+! description: Remove LinkedIn from the search results
+! public: true
+! author: WRM-42
+! avatar: #0000cc
+! homepage: https://github.com/WRM-42
+! license: GNU General Public License v2.0
+! issues: https://github.com/WRM-42/goggles/issues
+
+$discard,site=linkedin.com
