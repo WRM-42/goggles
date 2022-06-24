@@ -1,0 +1,22 @@
+! name: Sport news
+! description: Boost sport-related news outlets/blogs
+! public: true
+! author: WRM-42
+! avatar: #ff3300
+! homepage: https://github.com/WRM-42
+! license: GNU General Public License v2.0
+! issues: https://github.com/WRM-42/goggles/issues
+
+! WIP
+$boost=4,site=espn.com
+$boost=4,site=bleacherreport.com
+$boost=4,site=cbssports.com
+$boost=4,site=skysports.com
+$boost=4,site=espncricinfo.com
+$boost=4,site=sbnation.com
+$boost=4,site=foxsports.com
+$boost=4,site=mlbtraderumors.com
+$boost=4,site=fangraphs.com
+$boost=4,site=feedburner.com
+$boost=4,site=theringer.com
+$boost=4,site=theathletic.com
